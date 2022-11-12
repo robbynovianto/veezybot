@@ -1,11 +1,11 @@
 {
-   "sessionName": "ramlanid",
-   "ownerNumber": "6285559240360@s.whatsapp.net",
-   "ownerName": "Ramlan ID",
-   "botName": "BABY BOT",
-   "footer": "BABYBOT © 2022",
+   "sessionName": "robbynovianto",
+   "ownerNumber": "6281392920531@s.whatsapp.net",
+   "ownerName": "Robby Novianto",
+   "botName": "Veezy Bot",
+   "footer": "Veezy Bot © 2022",
    "butName": "YouTube",
-   "butLink": "https://youtube.com/c/RAMLANID",   
+   "butLink": "https://youtube.com",   
    "pathThumb": "./temp/logo.jpg",
    "pathQris": "./temp/qris.jpg",
    "mess": {
